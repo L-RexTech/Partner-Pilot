@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="me">#e8e2e2</color>
+    <color name="gemini">#cea762</color>
+    <color name="statusBarColor">#8a8988</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="meDark">#576ca8</color>
+    <color name="geminiDark">#274690</color>
+    <color name="statusBarColorDark">#000000</color>
+    <color name="textColorDark">#000000</color>
+</resources>

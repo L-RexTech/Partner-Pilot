@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GemniAPI" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorPrimary">@color/meDark</item>
+        <item name="colorPrimaryDark">@color/geminiDark</item>
+        <item name="colorAccent">@color/statusBarColorDark</item>
+    </style>
+    <style name="Theme.GemniAPI" parent="Base.Theme.GemniAPI">
+        <item name="android:statusBarColor">@color/statusBarColorDark</item>
+    </style>
+</resources>

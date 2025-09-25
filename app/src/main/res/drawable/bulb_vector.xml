@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Glow effect -->
+    <path
+        android:name="glow"
+        android:pathData="M50,30 a20,20 0 1,1 0,40 a20,20 0 1,1 0,-40"
+        android:fillColor="#33FFEB3B"
+        android:fillAlpha="0"/>
+
+    <!-- Bulb base -->
+    <path
+        android:name="base"
+        android:pathData="M45,70 L55,70 L53,80 L47,80 Z"
+        android:fillColor="#78909C"/>
+
+    <!-- Bulb glass -->
+    <path
+        android:name="bulb"
+        android:pathData="M50,30 a20,20 0 1,1 0,40 a20,20 0 1,1 0,-40"
+        android:strokeColor="#FDD835"
+        android:strokeWidth="2"
+        android:fillColor="#FFEB3B"/>
+
+    <!-- Filament -->
+    <path
+        android:name="filament"
+        android:pathData="M40,50 Q50,40 60,50"
+        android:strokeColor="#FB8C00"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"/>
+</vector>

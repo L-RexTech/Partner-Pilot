@@ -1,0 +1,19 @@
+## This file must *NOT* be checked into Version Control Systems,
+# as it contains information specific to your local configuration.
+#
+# Location of the SDK. This is only used by Gradle.
+# For customization when using a Version Control System, please read the
+# header note.
+#Thu Nov 21 17:32:04 IST 2024
+
+# Replace with your actual Google API key for Gemini
+apiKey=YOUR_GOOGLE_GEMINI_API_KEY_HERE
+
+# Replace with your actual Android SDK path
+sdk.dir=YOUR_ANDROID_SDK_PATH_HERE
+
+# Replace with your actual Hugging Face token
+stable_diffiuion_v1_api_key=YOUR_HUGGING_FACE_TOKEN_HERE
+
+# Stable Diffusion model ID
+sdv1_model_id=sd-1.5

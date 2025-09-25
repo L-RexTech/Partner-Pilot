@@ -10,4 +10,8 @@
     <color name="geminiDark">#274690</color>
     <color name="statusBarColorDark">#000000</color>
     <color name="textColorDark">#000000</color>
+    <color name="splash_text_color">#FFFFFF</color>
+    <color name="game_text_color">@color/black</color>
+    <color name="game_board_background">@color/white</color>
+    <color name="game_cell_border">@color/gemini</color>
 </resources>

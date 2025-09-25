@@ -1,0 +1,38 @@
+# Gradle
+.gradle/
+build/
+*/build/
+
+# Local configuration file (contains secrets)
+local.properties
+
+# Android Studio
+.idea/
+*.iml
+
+# Generated files
+bin/
+gen/
+out/
+
+# Log Files
+*.log
+
+# Android APKs
+*.apk
+*.ap_
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Version control
+.DS_Store
+Thumbs.db
+
+# API Keys (for any config files containing sensitive information)
+**/api_keys.properties
+**/secrets.properties

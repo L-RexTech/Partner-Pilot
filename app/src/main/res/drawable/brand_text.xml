@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Top text "Partner Pilot" -->
+    <item android:gravity="top|center_horizontal"
+        android:top="32dp">
+        <bitmap android:gravity="center">
+            <shape android:shape="rectangle">
+                <solid android:color="@android:color/transparent" />
+                <size android:width="200dp"
+                    android:height="48dp" />
+            </shape>
+        </bitmap>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Partner Pilot"
+            android:textSize="28sp"
+            android:textColor="@color/white"
+            android:textStyle="bold"/>
+    </item>
+
+    <!-- Bottom text "Stay Curious" -->
+    <item android:gravity="bottom|center_horizontal"
+        android:bottom="32dp">
+        <bitmap android:gravity="center">
+            <shape android:shape="rectangle">
+                <solid android:color="@android:color/transparent" />
+                <size android:width="200dp"
+                    android:height="48dp" />
+            </shape>
+        </bitmap>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Stay Curious"
+            android:textSize="20sp"
+            android:textColor="@color/white"
+            android:textStyle="italic"/>
+    </item>
+</layer-list>

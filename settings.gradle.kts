@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Gemni API"
+rootProject.name = "GemniAPI"
 include(":app")
- 

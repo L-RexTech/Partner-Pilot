@@ -43,15 +43,7 @@ An Android application that integrates Google's Gemini AI API to provide various
 
 ## Screenshots
 
-![App Screenshot](images/0.png)
-![App Screenshot](images/1.png)
-![App Screenshot](images/3.png)
-![App Screenshot](images/4.png)
-![App Screenshot](images/5.png)
-![App Screenshot](images/6.png)
-![App Screenshot](images/7.png)
-![App Screenshot](images/8.png)
-
+<table> <tr> <td><img src="images/0.png" alt="App Screenshot 1" width="250"/></td> <td><img src="images/1.png" alt="App Screenshot 2" width="250"/></td> <td><img src="images/3.png" alt="App Screenshot 3" width="250"/></td> </tr> <tr> <td><img src="images/4.png" alt="App Screenshot 4" width="250"/></td> <td><img src="images/5.png" alt="App Screenshot 5" width="250"/></td> <td><img src="images/6.png" alt="App Screenshot 6" width="250"/></td> </tr> <tr> <td><img src="images/7.png" alt="App Screenshot 7" width="250"/></td> <td><img src="images/8.png" alt="App Screenshot 8" width="250"/></td> </tr> </table>
 ## Dependencies
 
 - Google Generative AI: `0.2.2`
